@@ -1,7 +1,7 @@
 # abstraction_composition_coupling_cohesion
 Ways to improve code quality.
 
-+++EN+++
++++START_EN+++
 
 ## TASK:
 
@@ -228,7 +228,8 @@ if __name__ == "__main__":
 2. **Reducing Coupling**:
    - Removed the dependency between the `Account` and `Bank
 
-+++RUS+++
++++END_EN+++
++++START_RUS+++
 
 ## ЗАДАЧА:
 
@@ -461,5 +462,6 @@ if __name__ == "__main__":
 4. **Улучшение компоновки**:
    - Метод `banking_scenario` теперь использует методы банка для выполнения операций, что делает его более читабельным и легким для тестирования.
 
++++END_RUS+++
 4. **Улучшение компоновки**:
    - Метод `banking_scenario` теперь использует методы банка для выполнения операций, что делает его более читабельным и легким для тестирования.
