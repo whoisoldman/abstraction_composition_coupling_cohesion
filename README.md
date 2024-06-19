@@ -1,7 +1,7 @@
 # abstraction_composition_coupling_cohesion
 
-Ways to improve code quality.</br>
-+++START_EN+++
+### +++START_EN+++
+### Ways to improve code quality.
 
 ## TASK:
 
@@ -234,10 +234,10 @@ if __name__ == "__main__":
 4. **Improving Layout**:
    - The `banking_scenario` method now uses bank methods to perform operations, making it more readable and easier to test.
 
-+++END_EN+++
+### +++END_EN+++
 
-Способы улучшения качества кода.</br>
-+++START_RUS+++
+### +++START_RUS+++
+### Способы улучшения качества кода.
 
 ## ЗАДАЧА:
 
@@ -469,5 +469,5 @@ if __name__ == "__main__":
 
 4. **Улучшение компоновки**:
    - Метод `banking_scenario` теперь использует методы банка для выполнения операций, что делает его более читабельным и легким для тестирования.
-</b>
-+++END_RUS+++
+
+### +++END_RUS+++
