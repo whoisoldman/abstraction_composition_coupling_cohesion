@@ -228,6 +228,12 @@ if __name__ == "__main__":
 2. **Reducing Coupling**:
    - Removed the dependency between the `Account` and `Bank
 
+3. **Increasing Cohesion**:
+   - Moved the account number generation to the `Bank` class to ensure unique account numbers.
+
+4. **Improving Layout**:
+   - The `banking_scenario` method now uses bank methods to perform operations, making it more readable and easier to test.
+
 +++END_EN+++
 
 Способы улучшения качества кода.</br>
