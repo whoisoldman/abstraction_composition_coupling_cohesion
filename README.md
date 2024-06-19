@@ -1,7 +1,7 @@
 # abstraction_composition_coupling_cohesion
 Ways to improve code quality.
 
-+++<EN>+++
++++EN+++
 
 ## TASK:
 
@@ -228,7 +228,7 @@ if __name__ == "__main__":
 2. **Reducing Coupling**:
    - Removed the dependency between the `Account` and `Bank
 
-+++<RUS>+++
++++RUS+++
 
 ## ЗАДАЧА:
 
