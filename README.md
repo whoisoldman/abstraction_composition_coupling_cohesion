@@ -1,6 +1,6 @@
 # abstraction_composition_coupling_cohesion
 
-Ways to improve code quality.
+Ways to improve code quality.</br>
 +++START_EN+++
 
 ## TASK:
